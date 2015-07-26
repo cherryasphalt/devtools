@@ -1,0 +1,3 @@
+[submodule "scripts/DrawableCopier"]
+	path = scripts/DrawableCopier
+	url = git@github.com:jmhend/DrawableCopier.git

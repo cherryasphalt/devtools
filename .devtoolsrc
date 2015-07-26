@@ -1,0 +1,2 @@
+alias gif='sh $DEVTOOLS_PATH/scripts/giffify.sh'
+alias copy-drawables='python $DEVTOOLS_PATH/scripts/DrawableCopier/drawable_copier.py -f'
